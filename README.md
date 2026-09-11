@@ -14,3 +14,20 @@ python -m src.scraper
 
 ## Architecture
 HTML Source → JobScraper → JobListing → JobClassifier → Category + Skills
+
+## Pipeline
+
+1. Scrape job listings from configured sources.
+2. Clean and normalize job descriptions.
+3. Classify jobs using NLP.
+4. Extract relevant technical skills.
+5. Store and present structured job information.
+
+## Key Technologies
+
+- Python
+- NLP
+- Job Scraping
+- Skill Extraction
+- Text Classification
+- REST/API Integration
