@@ -31,3 +31,11 @@ HTML Source → JobScraper → JobListing → JobClassifier → Category + Skill
 - Skill Extraction
 - Text Classification
 - REST/API Integration
+
+- ## Project Highlights
+
+- Automated job listing collection
+- NLP-based job classification
+- Automatic technical skill extraction
+- End-to-end processing pipeline
+- Modular source-code structure
